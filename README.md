@@ -2,9 +2,13 @@
 This is a simple side-project showcasing the use of Data Anlysis, Visualization and Machine Learning to predict the adaptability of K-12 students to remote learning. The project is still in development.
 
 ## How to Run
+Install the required packages using pipenv:
+
 ```bash
 pipenv install
 ```
+
+Then after choosing the right kernel, run the notebook.
 
 ## Introduction (copied from the start of the notebook)
 
