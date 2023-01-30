@@ -6,7 +6,7 @@ This is a simple side-project showcasing the use of Data Anlysis, Visualization 
 pipenv install
 ```
 
-## Introduction
+## Introduction (copied from the start of the notebook)
 
 Online Education was suddenly a reality for 2 (or more) years for some students during COVID. It allowed students to connect with teachers and colleagues from the safety of their home. Contrary to some institutions and countries who could adapt pretty quickly to this new reality, students from developing countries were the most affected by this change. Government and Education Insitutions were, for the most part, not prepared to adapt to this new reality.
 
